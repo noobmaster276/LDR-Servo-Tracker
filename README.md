@@ -6,6 +6,8 @@ Precise Light Detection: Four LDR sensors arranged to capture light direction fo
 Servo-Controlled Pan-Tilt Movement: Dual-axis movement with two servo motors enables both horizontal and vertical tracking.
 Adaptive Sensitivity: Adjustable tolerance and delay settings for stable, smooth movements without overreacting to sudden light changes.
 Arduino-Powered: Utilizes Arduino Uno’s analog inputs for sensor data and PWM outputs for servo control, providing easy customization.
+## 📸 Output
+![Light Tracking System Output](images/working.png)
 # 🧩 Components
 Arduino Uno: Microcontroller to process sensor data and control servo movements.
 LDR Sensors: Four light sensors for detecting light intensity from different directions.
